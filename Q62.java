@@ -1,6 +1,5 @@
 //Q62. Create a package named com.school.students containing a class Student with fields id and name. Write another class in a different package that imports and uses the Student class
 
-// In file: com/school/students/Student.java
 package com.school.students;
 public class Student {
     private int id;
@@ -20,7 +19,6 @@ public class Student {
     }
 }
 
-// In file: com/school/main/Main.java
 package com.school.main;
 import com.school.students.Student;
 public class Main {
