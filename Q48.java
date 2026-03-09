@@ -32,7 +32,7 @@ class Rectangle implements Shape {
     }
 }
 
-public class ShapeAreaExample {
+public class Q48 {
     public static void main(String[] args) {
         Shape circle = new Circle(5);
         Shape rectangle = new Rectangle(4, 6);

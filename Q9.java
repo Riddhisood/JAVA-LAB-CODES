@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class StudentGrade {
+public class Q9 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter marks (0-100): ");

@@ -1,7 +1,7 @@
 //Q19.  Write a program to find the factorial value of any number 
 
 import java.util.Scanner;
-public class Factorial {
+public class Q19 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number to find its factorial: ");

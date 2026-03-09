@@ -1,7 +1,7 @@
 //Q21. Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered
 
 import java.util.Scanner;
-public class CountNumbers {
+public class Q21 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int positiveCount = 0;

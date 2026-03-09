@@ -1,6 +1,6 @@
 //Q11. Write a program to display numbers using increment and decrement operators.
 
-public class IncDecOperators {
+public class Q11 {
     public static void main(String[] args) {
         int num = 10;
         

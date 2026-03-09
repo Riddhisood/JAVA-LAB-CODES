@@ -8,7 +8,7 @@ interface InterfaceB {
     void methodB();
 }
 
-public class MultipleInheritance implements InterfaceA, InterfaceB {
+public class Q28 implements InterfaceA, InterfaceB {
     @Override
     public void methodA() {
         System.out.println("Method from Interface A");
@@ -20,7 +20,7 @@ public class MultipleInheritance implements InterfaceA, InterfaceB {
     }
 
     public static void main(String[] args) {
-        MultipleInheritance obj = new MultipleInheritance();
+        Q28 obj = new Q28();
         obj.methodA(); 
         obj.methodB(); 
     }

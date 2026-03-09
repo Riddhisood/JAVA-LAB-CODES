@@ -1,7 +1,7 @@
 //Q36. Program to create method that returns array
 
 import java.util.Scanner;
-public class ReturnArray {  
+public class Q36 {  
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");

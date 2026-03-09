@@ -1,6 +1,6 @@
 //Q44. Write a program to show nested try blocks. 
 
-public class NestedTryExample {
+public class Q44 {
     public static void main(String[] args) {
         try {
             int[] array = {1, 2, 3};

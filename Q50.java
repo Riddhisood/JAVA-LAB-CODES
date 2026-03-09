@@ -6,14 +6,14 @@ interface DefaultMethodInterface {
     }
 }
 
-public class DefaultMethodExample implements DefaultMethodInterface {
+public class Q50 implements DefaultMethodInterface {
     @Override
     public void defaultMethod() {
         System.out.println("This is the overridden default method in the implementing class.");
     }
 
     public static void main(String[] args) {
-        DefaultMethodExample example = new DefaultMethodExample();
+        Q50 example = new Q50();
         example.defaultMethod(); // Output: This is the overridden default method in the implementing class.
     }
 }

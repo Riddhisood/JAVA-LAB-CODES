@@ -1,6 +1,6 @@
 //Q56. Write a Java program to create multiple threads that perform different tasks.
 
-public class MultipleThreadsExample {
+public class Q56 {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new Runnable() {
             @Override

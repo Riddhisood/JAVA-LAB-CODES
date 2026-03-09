@@ -18,7 +18,7 @@ class Cat implements Animal {
     }
 }
 
-public class RuntimePolymorphismWithInterface {
+public class Q52 {
     public static void main(String[] args) {
         Animal myAnimal1 = new Dog(); // Upcasting
         Animal myAnimal2 = new Cat(); // Upcasting

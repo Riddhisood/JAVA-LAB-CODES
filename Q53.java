@@ -1,6 +1,6 @@
 //Q53. Write a Java program to demonstrate the use of sleep() and yield() methods in thread.
 
-public class ThreadExample {
+public class Q53 {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new Runnable() {
             @Override

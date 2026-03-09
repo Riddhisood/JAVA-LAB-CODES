@@ -1,6 +1,6 @@
 //Q55. Write a Java program to demonstrate thread priorities.
 
-public class ThreadPriorityExample {
+public class Q55 {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new Runnable() {
             @Override

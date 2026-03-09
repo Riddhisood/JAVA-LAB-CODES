@@ -1,7 +1,7 @@
 //Q33. Program to input and print various 1-D arrays
 
 import java.util.Scanner;
-public class OneDArray {
+public class Q33 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");

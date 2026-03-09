@@ -14,7 +14,7 @@ class Dog extends
         }
     }
 
-public class MethodOverriding {
+public class Q23 {
     public static void main(String[] args) {
         Animal myAnimal = new Animal();
         Animal myDog = new Dog();

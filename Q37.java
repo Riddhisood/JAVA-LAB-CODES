@@ -1,7 +1,7 @@
 //Q37.WAP to create ArrayList. Also add, remove, change and clear the elements of ArrayList
 
 import java.util.ArrayList;
-public class ArrayListExample {
+public class Q37 {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>();
 

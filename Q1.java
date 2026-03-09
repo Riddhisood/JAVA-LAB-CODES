@@ -1,6 +1,6 @@
 //Q1. Write a program to implement bitwise operator
 
-public class BitwiseExample {
+public class Q1 {
     public static void main(String[] args) {
         int a = 5;
         int b = 3;

@@ -1,6 +1,6 @@
 //Q22. Write a program to show method overloading.
 
-public class MethodOverloading {
+public class Q22 {
     public static void main(String[] args) {
         System.out.println("Sum of 2 integers: " + sum(5, 10));
         System.out.println("Sum of 3 integers: " + sum(5, 10, 15));

@@ -6,7 +6,7 @@ final class FinalClass {
     }
 }
 
-public class FinalClassExample {
+public class Q32 {
     public static void main(String[] args) {
         FinalClass finalClass = new FinalClass();
         finalClass.display(); 

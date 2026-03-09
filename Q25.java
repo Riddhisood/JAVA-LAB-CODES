@@ -18,7 +18,7 @@ class Child extends Parent {
     }
 }
 
-public class MultilevelInheritance {
+public class Q25 {
     public static void main(String[] args) {
         Child child = new Child();
         child.display(); 

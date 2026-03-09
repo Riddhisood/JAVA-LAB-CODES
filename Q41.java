@@ -1,6 +1,6 @@
 //Q41. Write a program to show finally block. 
 
-public class FinallyBlockExample {
+public class Q41 {
     public static void main(String[] args) {
         int a = 10;
         int b = 0;

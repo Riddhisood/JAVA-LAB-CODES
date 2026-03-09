@@ -6,7 +6,7 @@ class Parent {
     }
 }   
 
-public class FinalMethodExample {
+public class Q31 {
     public static void main(String[] args) {
         Child child = new Child();
         child.display();

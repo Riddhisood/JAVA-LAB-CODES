@@ -13,7 +13,7 @@ class Dog extends Animal {
     }
 }
 
-public class RuntimePolymorphism {
+public class Q46 {
     public static void main(String[] args) {
         Animal myAnimal = new Dog(); // Upcasting
         myAnimal.sound(); // Output: Dog barks (runtime polymorphism)

@@ -6,7 +6,7 @@ class CustomException extends Exception {
     }
 }
 
-public class CustomExceptionExample {
+public class Q47 {
     public static void main(String[] args) {
         try {
             validateNumber(150); // This will throw CustomException

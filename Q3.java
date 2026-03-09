@@ -1,6 +1,6 @@
 //Q3.  Write a program to print a Fibonacci series upto a limit.
 
-public class FibonacciSeries {
+public class Q3 {
     public static void main(String[] args) {
         int limit = 50;
         int first = 0;

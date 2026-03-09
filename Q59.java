@@ -18,7 +18,7 @@ class UPIPayment implements Payment {
     }
 }
 
-public class PaymentExample {
+public class Q59 {
     public static void main(String[] args) {
         Payment payment1 = new CreditCardPayment(); // Upcasting
         Payment payment2 = new UPIPayment(); // Upcasting

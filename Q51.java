@@ -11,7 +11,7 @@ class MyClass implements MyInterface {
     }
 }
 
-public class InterfaceReferenceExample {
+public class Q51 {
     public static void main(String[] args) {
         MyInterface myInterfaceRef = new MyClass(); // Interface reference referring to an object of the implementing class
         myInterfaceRef.display(); // Output: This is the implementation of the interface method.

@@ -1,7 +1,7 @@
 //Q42. Write a program to show multiple catch blocks. 
 
 import java.util.Scanner;
-public class MultipleCatchExample {
+public class Q42 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");

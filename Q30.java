@@ -1,6 +1,6 @@
 //Q30. Write a program in Java to use final variables
 
-public class FinalVariableExample {
+public class Q30 {
     final int MAX_VALUE = 100;
 
     public void displayMaxValue() {
@@ -8,7 +8,7 @@ public class FinalVariableExample {
     }
 
     public static void main(String[] args) {
-        FinalVariableExample example = new FinalVariableExample();
+        Q30 example = new Q30();
         example.displayMaxValue();
     }
 }

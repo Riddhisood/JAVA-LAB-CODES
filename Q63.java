@@ -18,7 +18,7 @@ class Piano implements Playable {
     }
 }
 
-public class PlayableExample {
+public class Q63 {
     public static void main(String[] args) {
         Playable guitar = new Guitar();
         Playable piano = new Piano();

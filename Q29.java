@@ -12,7 +12,7 @@ interface CombinedInterface extends InterfaceA, InterfaceB {
     void methodCombined();
 }
 
-public class MultipleInheritanceWithInterface extends CombinedInterface {
+public class Q29 extends CombinedInterface {
     @Override
     public void methodA() {
         System.out.println("Method from Interface A");
@@ -29,7 +29,7 @@ public class MultipleInheritanceWithInterface extends CombinedInterface {
     }
 
     public static void main(String[] args) {
-        MultipleInheritanceWithInterface obj = new MultipleInheritanceWithInterface();
+        Q29 obj = new Q29();
         obj.methodA();
         obj.methodB(); 
         obj.methodCombined(); 

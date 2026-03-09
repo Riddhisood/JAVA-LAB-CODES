@@ -1,7 +1,7 @@
 //Q35. Program to pass array as parameter
 
 import java.util.Scanner;
-public class ArrayParameter {
+public class Q35 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");

@@ -1,6 +1,6 @@
 //Q7. Write a program to print all prime numbers from 1 to 50.
 
-public class PrimeNumbers {
+public class Q7 {
     public static void main(String[] args) {
         System.out.println("Prime numbers between 1 and 50:");
 

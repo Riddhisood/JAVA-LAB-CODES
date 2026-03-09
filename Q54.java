@@ -1,6 +1,6 @@
 //Q54. Write a Java program to demonstrate the use of join() method in threads.
 
-public class JoinExample {
+public class Q54 {
     public static void main(String[] args) {
         Thread thread1 = new Thread(new Runnable() {
             @Override

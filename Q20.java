@@ -1,7 +1,7 @@
 //Q20. Write a program to reverse the given digits and sum of the digits
 
 import java.util.Scanner;
-public class ReverseAndSumDigits {
+public class Q20 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter a number: ");

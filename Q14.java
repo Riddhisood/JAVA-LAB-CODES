@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class NaturalNumbers {
+public class Q14 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter value for n: ");

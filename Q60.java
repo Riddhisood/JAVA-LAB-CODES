@@ -20,7 +20,7 @@ class MultiFunctionPrinter implements Printable, Scannable {
     }
 }
 
-public class MultiFunctionPrinterExample {
+public class Q60 {
     public static void main(String[] args) {
         MultiFunctionPrinter printer = new MultiFunctionPrinter();
         printer.print(); // Output: Printing document...

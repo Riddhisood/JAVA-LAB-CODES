@@ -18,7 +18,7 @@ class Child2 extends Parent {
     }
 }
 
-public class HierarchicalInheritance {
+public class Q26 {
     public static void main(String[] args) {
         Child1 child1 = new Child1();
         Child2 child2 = new Child2();

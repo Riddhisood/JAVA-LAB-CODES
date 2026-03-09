@@ -3,7 +3,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-public class ThrowsExample {
+public class Q45 {
     public static void main(String[] args) {
         try {
             readFile("nonexistentfile.txt"); // This will throw IOException
